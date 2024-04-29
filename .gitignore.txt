@@ -1,0 +1,4 @@
+bin/
+obj/
+Ado.Net.sln
+Ado.Net
